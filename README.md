@@ -1,4 +1,4 @@
-# ## Sales prediction using Linear Regression predicting sales from TV advertising spend
+Sales prediction using Linear Regression predicting sales from TV advertising spend
 This model predicts sales based on the money spent on different platforms for marketing. 
 
 Problem Statement:- The goal was to build a predictive model that estimates sales based on the money spent across different marketing platforms.
